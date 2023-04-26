@@ -1,0 +1,11 @@
+Closeness,Efficiency,Degree,Katz
+0.4984 (Atlanta GA: Hartsfield-Jackson Atlanta International),0.5668 (Atlanta GA: Hartsfield-Jackson Atlanta International),0.1999 (Atlanta GA: Hartsfield-Jackson Atlanta International),0.1547 (Las Vegas NV: McCarran International)
+0.4953 (Los Angeles CA: Los Angeles International),0.5601 (Los Angeles CA: Los Angeles International),0.1903 (Washington DC: Washington Dulles International),0.1396 (South Bend IN: South Bend International)
+0.4948 (Minneapolis MN: Minneapolis-St Paul International),0.5579 (Washington DC: Washington Dulles International),0.1884 (Chicago IL: Chicago O'Hare International),0.1217 (Panama City FL: Northwest Florida Beaches International)
+0.4906 (Denver CO: Denver International),0.5548 (Minneapolis MN: Minneapolis-St Paul International),0.1859 (Los Angeles CA: Los Angeles International),0.1171 (Roanoke VA: Roanoke Blacksburg Regional Woodrum Field)
+0.4900 (Washington DC: Washington Dulles International),0.5536 (New York NY: John F. Kennedy International),0.1852 (New York NY: John F. Kennedy International),0.1152 (Baltimore MD: Baltimore/Washington International Thurgood Marshall)
+0.4858 (New York NY: John F. Kennedy International),0.5534 (Chicago IL: Chicago O'Hare International),0.1744 (Denver CO: Denver International),0.1148 (Detroit MI: Detroit Metro Wayne County)
+0.4856 (Orlando FL: Orlando International),0.5531 (Denver CO: Denver International),0.1738 (Newark NJ: Newark Liberty International),0.1147 (Charleston/Dunbar WV: Yeager)
+0.4844 (Chicago IL: Chicago O'Hare International),0.5469 (Newark NJ: Newark Liberty International),0.1712 (Minneapolis MN: Minneapolis-St Paul International),0.1099 (Indianapolis IN: Indianapolis International)
+0.4819 (Newark NJ: Newark Liberty International),0.5451 (Houston TX: George Bush Intercontinental/Houston),0.1700 (Houston TX: George Bush Intercontinental/Houston),0.1071 (San Juan PR: Luis Munoz Marin International)
+0.4813 (Houston TX: George Bush Intercontinental/Houston),0.5406 (Orlando FL: Orlando International),0.1661 (Miami FL: Miami International),0.0970 (Toledo OH: Toledo Express)

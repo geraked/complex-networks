@@ -1,0 +1,11 @@
+Closeness,Efficiency,Degree,Katz
+0.5029 (israel),0.5748 (israel),0.2134 (israel),0.1509 (benjamin)
+0.4710 (judah),0.5308 (judah),0.1489 (judah),0.1391 (elam)
+0.4582 (jerusalem),0.5148 (david),0.1295 (david),0.1194 (shem)
+0.4563 (david),0.5116 (jerusalem),0.1184 (jerusalem),0.1164 (shemaiah)
+0.4289 (egypt),0.4719 (egypt),0.0715 (egypt),0.1104 (uz)
+0.4279 (ephraim),0.4678 (ephraim),0.0645 (benjamin),0.1083 (aram)
+0.4254 (manasseh),0.4670 (benjamin),0.0633 (manasseh),0.1057 (arphaxad)
+0.4251 (benjamin),0.4664 (manasseh),0.0610 (ephraim),0.1054 (meshech)
+0.4202 (joseph),0.4590 (moses),0.0604 (saul),0.0986 (lud)
+0.4201 (moses),0.4585 (joseph),0.0586 (philistines),0.0926 (hul)
